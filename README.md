@@ -5,5 +5,7 @@ Git collaboration notes
 
 ## Branches
 -'git branch [branch_name]' : create a new branch where HEAD is
+
 -'git branch -a : list all the branches your local machine knows of
+
 -'git switch [branch_name]' : move to branch
